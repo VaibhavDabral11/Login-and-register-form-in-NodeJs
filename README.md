@@ -1,7 +1,5 @@
 <<<<<<< HEAD
 # Login-and-register-form-in-NodeJs
-=======
-# Login-and-register-form-in-reactJs
 
 ``` npm init -y ```
 
